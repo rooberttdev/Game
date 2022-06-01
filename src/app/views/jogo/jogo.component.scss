@@ -1,0 +1,34 @@
+.content{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    justify-content: center;
+    align-items: center;
+}
+.campo{
+    display: flex;
+    width: 70%;
+    height: 20%;
+    border: 1px solid;
+}
+
+.jogador{
+    width: 50%;
+    height: 100%;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.monstro{
+    width: 50%;
+    height: 100%;
+    border: 1px solid rgb(0, 255, 21);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
